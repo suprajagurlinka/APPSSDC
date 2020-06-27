@@ -58,8 +58,7 @@
 	margin: 5px;
 	width: 700px;
 	border: 2px solid #000;
-	
-	height: 200px;
+	height: 150px;
 	
 }
 .twothree{
@@ -76,4 +75,13 @@
 	border: 2px solid #000;
 	padding: 10px;
 	height: 80px;
+}
+.space{
+	padding-bottom: 9px;
+}
+.img{
+	width: 90px;
+	height: 90px;
+	text-align: center;
+	margin-left: 120px;
 }
