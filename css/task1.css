@@ -1,0 +1,79 @@
+.parent{
+	display:flex;
+	border: 2px solid #000;
+
+	height: 730px;
+}
+.first{
+	margin: 5px;
+	width: 415px;
+	border: 2px solid #000;
+	padding: 10px;
+	height: 697px;
+}
+.second{
+	margin: 5px;
+	width: 750px;
+	border: 2px solid #000;
+	padding: 10px;
+	height: 697px;
+}
+.one{
+	margin: 5px;
+	width: 370px;
+	border: 2px solid #000;
+	padding: 10px;
+	height: 200px;
+}
+.two{
+	margin: 5px;
+	width: 370px;
+	border: 2px solid #000;
+	padding: 10px;
+	height: 200px;
+}
+.three{
+	margin: 5px;
+	width: 370px;
+	border: 2px solid #000;
+	padding: 10px;
+	height: 200px;
+}
+.twoone{
+	margin: 5px;
+	width: 700px;
+	border: 2px solid #000;
+	padding: 10px;
+	height: 80px;
+}
+.twotwo{
+	margin: 5px;
+	width: 700px;
+	border: 2px solid #000;
+	padding: 10px;
+	height: 200px;
+
+}
+.twotwo1{
+	margin: 5px;
+	width: 700px;
+	border: 2px solid #000;
+	
+	height: 200px;
+	
+}
+.twothree{
+	margin: 5px;
+	width: 700px;
+	border: 2px solid #000;
+	padding: 10px;
+	height: 200px;
+
+}
+.twofour{
+	margin: 5px;
+	width: 700px;
+	border: 2px solid #000;
+	padding: 10px;
+	height: 80px;
+}
