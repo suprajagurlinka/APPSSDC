@@ -1,0 +1,20 @@
+.para{
+	background-color: blue;
+}
+#paragraph{
+	background-color: pink;
+}
+.first,.second,.third,.four{
+	border: 2px solid #000;
+	margin:2px;
+	width: 400px;
+	text-align: center;
+}
+img{
+	width:200px;
+	padding:10px;
+}
+.parent{
+	display:flex;
+	flex-direction: row-reverse;
+}
