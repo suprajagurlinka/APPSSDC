@@ -1,78 +1,89 @@
 .parent{
 	display:flex;
+	border-radius: 25px;
 	border: 2px solid #000;
 
 	height: 730px;
 }
 .first{
-	margin: 5px;
+	
 	width: 415px;
-	border: 2px solid #000;
-	padding: 10px;
-	height: 697px;
+	
+	
+	
+	height: 730px;
+}
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+#customers{
+	border-collapse: collapse;
+	width: 100%;
+}
+#customers tr:hover {background-color: #ddd;}
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
 }
 .second{
-	margin: 5px;
-	width: 750px;
-	border: 2px solid #000;
-	padding: 10px;
-	height: 697px;
+	
+	
+	width: 100%;
+	border-left: 2px solid #000;
+	
+	height: 730px;
 }
 .one{
 	margin: 5px;
 	width: 370px;
-	border: 2px solid #000;
+	
 	padding: 10px;
-	height: 200px;
+	height: 280px;
+	text-align: center;
 }
 .two{
 	margin: 5px;
 	width: 370px;
-	border: 2px solid #000;
+	
 	padding: 10px;
 	height: 200px;
 }
 .three{
 	margin: 5px;
 	width: 370px;
-	border: 2px solid #000;
+	
 	padding: 10px;
 	height: 200px;
 }
 .twoone{
-	margin: 5px;
-	width: 700px;
-	border: 2px solid #000;
+	
 	padding: 10px;
 	height: 80px;
 }
 .twotwo{
-	margin: 5px;
-	width: 700px;
-	border: 2px solid #000;
+	
 	padding: 10px;
 	height: 200px;
 
 }
-.twotwo1{
-	margin: 5px;
-	width: 700px;
-	border: 2px solid #000;
-	height: 150px;
-	
-}
+
 .twothree{
-	margin: 5px;
-	width: 700px;
-	border: 2px solid #000;
+	
+	
+	
 	padding: 10px;
 	height: 200px;
 
 }
 .twofour{
-	margin: 5px;
-	width: 700px;
-	border: 2px solid #000;
+	
+	
+	
 	padding: 10px;
 	height: 80px;
 }
@@ -80,8 +91,8 @@
 	padding-bottom: 9px;
 }
 .img{
-	width: 90px;
-	height: 90px;
+	width: 150px;
+	height: 150px;
 	text-align: center;
-	margin-left: 120px;
+	border-radius: 50%;
 }
